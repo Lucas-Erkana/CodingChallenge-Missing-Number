@@ -1,4 +1,3 @@
-Sure, here's a better display for the problem statement in a README.md file:
 
 # Missing Number
 
