@@ -1,0 +1,12 @@
+{
+  "name": "codingchallenge-missing-number",
+  "version": "1.0.0",
+  "description": "Given an array `nums` containing `n` distinct numbers in the range of `[0, n]`, return the only number in the range that is missing from the array.",
+  "main": "missingNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
